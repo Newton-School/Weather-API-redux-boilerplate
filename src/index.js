@@ -5,7 +5,7 @@ import { store } from './store';
 import { Provider } from 'react-redux';
 
 
-// bind the store using provder to the App
+// bind the store using provider to the App
 
 
 ReactDOM.render(
@@ -18,7 +18,7 @@ ReactDOM.render(
 
 
 
-// done change the following lines
+// please do not change the following lines
 if (window.Cypress) {
     window.store = store
 }

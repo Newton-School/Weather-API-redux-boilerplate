@@ -22,6 +22,6 @@ export function Weather() {
 
 
 
-  // render weather details/ loading text / alert
+  // render weather details/ 'loading' text / errors
   );
 }

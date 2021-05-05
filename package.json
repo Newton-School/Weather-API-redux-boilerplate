@@ -34,13 +34,5 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "@reduxjs/toolkit": "^1.5.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Newton-School/Counter-React-Redux-Solution.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Newton-School/Counter-React-Redux-Solution/issues"
-  },
-  "homepage": "https://github.com/Newton-School/Counter-React-Redux-Solution#readme"
+  }
 }
